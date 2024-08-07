@@ -1,0 +1,28 @@
+{
+  "name": "Hezekiah Ruiz Legaspi",
+  "avatar": "https://avatars.githubusercontent.com/u/139465408?s=400&u=3a3138d0113b32806bdfbe134d0abf4371367037&v=4",
+  "title": "IT Support Specialist",
+  "company": "Via Mare Corporation",
+  "blurb": "An aspiring full-stack web developer currently using the MERN stack. I rely heavily on documentation when programming/developing.",
+  "skills": [
+    "ReactJS",
+    "NodeJS/ExpressJS",
+    "MongoDB",
+    "C#",
+    "C/C++"
+  ],
+  "contacts": [
+    {
+      "type": "email",
+      "url": "mailto:hezekiahruizlegaspi@gmail.com"
+    },
+    {
+      "type": "github",
+      "url": "https://github.com/HeroreH29"
+    },
+    {
+      "type": "linkedin",
+      "url": "https://www.linkedin.com/in/hezekiah-ruiz-legaspi-072526261/"
+    }
+  ]
+}
