@@ -6,7 +6,8 @@
   "blurb": "An aspiring full-stack web developer currently using the MERN stack. I rely heavily on documentation when programming/developing.",
   "skills": [
     "ReactJS",
-    "NodeJS/ExpressJS",
+    "NodeJS",
+    "ExpressJS",
     "MongoDB",
     "C#",
     "C/C++"
